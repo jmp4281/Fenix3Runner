@@ -1,0 +1,13 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap filename="freq.png" id="freq"></bitmap>
+	<bitmap filename="pies.png" id="pies"></bitmap>
+	<bitmap filename="bat1.png" id="bat1"></bitmap>
+	<bitmap filename="bat2.png" id="bat2"></bitmap>
+	<bitmap filename="bat3.png" id="bat3"></bitmap>
+	<bitmap filename="bat4.png" id="bat4"></bitmap>
+	<bitmap filename="gps.png" id="gps"></bitmap>
+	<bitmap filename="bluetooth.png" id="bluetooth"></bitmap>
+
+
+</drawables>

@@ -1,0 +1,7 @@
+<fonts>
+   <font id="customFont" filename="custom.fnt" filter="0123456789"/>
+   <font id="consolasFont" filename="consolas.fnt" />
+   <font id="TaphontFont" filename="Taphont.fnt" />
+   <font id="TaphontFont_med" filename="Taphont_med.fnt" />
+   
+</fonts>
